@@ -10,7 +10,7 @@ public class OuterStatic {
 
     public static void main(String[] args) {
         OuterStatic.inner  o1 = new OuterStatic.inner();
-        o1.show();
+        o1.show(); 
     
 }
 }
